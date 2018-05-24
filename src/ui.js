@@ -47,7 +47,7 @@ module.exports = () => (
 	<div>
 		<br/>
 		<div>
-			<Text>Hi! I’m natumn. Go and Haskell programmer.<br/>Like compiler and server side!</Text>
+			<Text>Hi! I’m natumn. Develop server side and compiler.<br/>Like Go and Haskell!</Text>
 		</div>
 		<br/>
 		<SelectInput items={items} onSelect={handleSelect}/>
