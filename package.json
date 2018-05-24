@@ -1,12 +1,12 @@
 {
-	"name": "ink-demo",
+	"name": "natumn",
 	"version": "1.0.0",
-	"description": "",
+	"description": "natumn cli business cord!",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"bin": {
-		"natumn": "source/cli.js"
+		"natumn": "src/cli.js"
 	},
 	"repository": {
 		"type": "git",
