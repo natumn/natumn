@@ -19,6 +19,6 @@ const fallback = async () => {
 	console.log(image);
 };
 
-termImg(path.join(__dirname, 'avatar.png'), {fallback});
+termImg(path.join(__dirname, 'natumn-avatar-copy.png'), {fallback});
 
 render(h(ui));

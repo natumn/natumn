@@ -1,9 +1,9 @@
+
 'use strict';
-const path = require('path');
+
 const {h, Text} = require('ink');
 const SelectInput = require('ink-select-input');
 const opn = require('opn');
-const terminalImage = require('terminal-image');
 
 const open = url => opn(url, {wait: false});
 
@@ -31,7 +31,7 @@ const items = [
 		url: 'https://github.com/natumn'
 	},
 	{
-		label: 'Blog',
+		label: 'hatena-Blog',
 		url: 'http://nktafuse.hatenablog.com/'
 	},
 	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
@@ -47,7 +47,7 @@ module.exports = () => (
 	<div>
 		<br/>
 		<div>
-			<Text>I’m a full-time open-sourcerer making things like macOS apps, CLI tools, and modules.</Text>
+			<Text>Hi! I’m natumn. Go and Haskell programmer.<br/>Like compiler and server side!</Text>
 		</div>
 		<br/>
 		<SelectInput items={items} onSelect={handleSelect}/>
