@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img alt="my logo" src="./assets/logo.jpg" width="200" height="200">
     <HelloWorld/>
   </div>
 </template>
@@ -18,7 +17,7 @@ export default {
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: 'sans-serif', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
