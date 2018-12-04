@@ -1,5 +1,5 @@
 # natumn
-my business card on CLI!
+my business card on CLI and portfolio site.
 ```
 $ npx natumn
 ```
