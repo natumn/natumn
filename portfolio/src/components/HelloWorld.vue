@@ -9,7 +9,7 @@
     <div class="item">
     <h2>site</h2>
     <ul>
-      <li><a href="https://twitter.com/natumndb" target="_blank" rel="noopener">Twitter</a></li>
+      <li><a href="https://twitter.com/natumn_" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="https://github.com/natumn" target="_blank" rel="noopener">GitHub</a></li>
       <li><a href="http://nktafuse.hatenablog.com/" target="_blank" rel="noopener">はてなブログ</a></li>
       <li><a href="https://speakerdeck.com/natumn" target="_blank" rel="noopener">Speaker Deck</a></li>
