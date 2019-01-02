@@ -12,6 +12,7 @@
       <li><a href="https://twitter.com/natumn_" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="https://github.com/natumn" target="_blank" rel="noopener">GitHub</a></li>
       <li><a href="http://nktafuse.hatenablog.com/" target="_blank" rel="noopener">はてなブログ</a></li>
+      <li><a href="https://note.mu/natumn" target="_blank" rel="noopener">note</a></li>
       <li><a href="https://speakerdeck.com/natumn" target="_blank" rel="noopener">Speaker Deck</a></li>
       <li><a href="https://bookmeter.com/users/731750" target="_blank" rel="noopener">読書メーター</a></li>
     </ul>
