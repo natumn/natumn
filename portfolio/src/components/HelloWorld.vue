@@ -15,6 +15,7 @@
       <li><a href="https://note.mu/natumn" target="_blank" rel="noopener">note</a></li>
       <li><a href="https://speakerdeck.com/natumn" target="_blank" rel="noopener">Speaker Deck</a></li>
       <li><a href="https://bookmeter.com/users/731750" target="_blank" rel="noopener">読書メーター</a></li>
+      <li><a href="https://wakatime.com/@natumn" target="_blank" rel="noopener">wakatime</a></li>
     </ul>
     </div>
   </div>
