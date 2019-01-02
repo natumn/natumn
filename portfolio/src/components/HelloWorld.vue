@@ -7,7 +7,9 @@
     </h1>
     </div>
     <div class="item">
-    <h2>site</h2>
+    <h2>E-mail</h2>
+      <p>natsume41210@gmail.com</p>
+    <h2>Site</h2>
     <ul>
       <li><a href="https://twitter.com/natumn_" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="https://github.com/natumn" target="_blank" rel="noopener">GitHub</a></li>
